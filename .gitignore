@@ -1,0 +1,16 @@
+# Removing node modules
+node_modules
+
+# All env's that should not be in the repo
+.env
+.env.local
+
+#build folder for the project 
+/dist
+/build
+
+# .pem
+key.pem
+cert.pem
+
+package-lock.json
